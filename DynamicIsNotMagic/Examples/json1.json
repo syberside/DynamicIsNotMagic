@@ -1,0 +1,10 @@
+﻿{
+  "commonSettings": {
+    "db": {
+      "jobConnectionString": ""
+    },
+    "pool": {
+      "threadsCount": 10
+    }
+  }
+}

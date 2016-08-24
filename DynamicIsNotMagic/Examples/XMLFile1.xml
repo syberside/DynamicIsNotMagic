@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<CommonSettings>
+  <DB JobConnectionString="">
+  </DB>
+  <Pool>
+    <ThreadsCount>10</ThreadsCount>
+  </Pool>
+</CommonSettings>
